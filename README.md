@@ -1,4 +1,4 @@
-# BusinessProject
+# BUSINESS PROJECT
 
 - 수어 인식 기반 병원 키오스크 모델 개발
 - 농인을 위한 수어 인식 키오스크 시스템 개발
